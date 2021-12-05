@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gavin de Bruyn and I'm a Software Developer and Cloud Enthusiast. I'm from Cape Town, South Africa and currently working at [@Runninghill Software Development](https://www.runninghill.co.za). You can find me on [LinkedIn](https://www.linkedin.com/in/gavin-de-bruyn-1a8692182).
+My name is Gavin de Bruyn and I'm a Software Developer and Cloud Enthusiast. I'm from Cape Town, South Africa and currently working [@Runninghill Software Development](https://www.runninghill.co.za). You can find me on [LinkedIn](https://www.linkedin.com/in/gavin-de-bruyn-1a8692182).
 
 Check out my [Online Portfolio](http://www.gavindebruyn.com).
 
